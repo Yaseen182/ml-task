@@ -6,6 +6,7 @@ F
 G
 H
 # Iconnect-task: Iris Classification Pipeline
+I
 
 This project implements a **complete machine learning pipeline** for classifying the Iris dataset. It demonstrates how to structure a Python project with multiple modules, handle preprocessing, train different models, and evaluate them effectively.
 
